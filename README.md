@@ -17,7 +17,7 @@ Install a simple wordpress website on a cloud infrastructure
 	- Hosting cost should reflect your actual usage.
 	- The public should not even be able to reach anything they have no reason to reach.
 
-    ![aws-screenshot](https://github.com/lnzimand/cloud-1/blob/main/resources/screenshot.png)
+    ![blob](https://github.com/lnzimand/cloud-1/blob/main/resources/screenshot.png)
 
 *********************************************************************************
 ## Platform
